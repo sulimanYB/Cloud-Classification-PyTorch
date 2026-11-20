@@ -1,0 +1,19 @@
+# PyTorch (CPU)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu
+torchvision==0.29.2+cpu
+
+# Data processing
+numpy==2.5.4
+pandas==3.1.1
+pillow==13.0.0
+
+# Machine learning and evaluation
+scikit-learn==1.9.1
+torchmetrics==1.9.0
+
+# Visualisation
+matplotlib==3.11.2
+
+# Utilities
+tqdm==4.70.1
